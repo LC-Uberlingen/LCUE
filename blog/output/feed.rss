@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>LC Überlingen</title>
+		<link>http://blog.lc-ueberlingen.de/</link>
+		<description>LC Überlingen - Aktuelles</description>
+		<copyright>2019</copyright>
+		<pubDate>Sat, 05 Oct 2019 08:47:03 GMT</pubDate>
+		<lastBuildDate>Sat, 05 Oct 2019 08:47:03 GMT</lastBuildDate>
+		<item>
+			<title>First Post</title>
+			<link>http://blog.lc-ueberlingen.de/posts/first-post</link>
+			<description>&lt;p&gt;This is my first post!&lt;/p&gt;</description>
+			<guid>http://blog.lc-ueberlingen.de/posts/first-post</guid>
+			<pubDate>Fri, 01 Jan 2016 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;This is my first post!&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,11 @@
+#recipe Blog
+
+System.Globalization.CultureInfo.DefaultThreadCurrentCulture
+    = System.Globalization.CultureInfo.CreateSpecificCulture("de-DE");
+
+// Customize your settings and add new ones here
+Settings[Keys.Host] = "blog.lc-ueberlingen.de";
+Settings[BlogKeys.Title] = "LC Überlingen";
+Settings[BlogKeys.Description] = "LC Überlingen - Aktuelles";
+
+// Add any pipeline customizations here
