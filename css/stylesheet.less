@@ -4,6 +4,15 @@
 @text-primary: #fff;
 @text-secondary: #000;
 
+a {
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     background-color: @highlight;
 }
@@ -20,7 +29,7 @@
 .lc-primary {
     background-color: @primary;
 
-    h1, h2, h3, h4, h5, h6, p, td, th {
+    h1, h2, h3, h4, h5, h6, p, td, th, a {
         color: @text-primary;
     }
 
@@ -32,7 +41,7 @@
 .lc-secondary {
     background-color: @secondary;
 
-    h1, h2, h3, h4, h5, h6, p, td {
+    h1, h2, h3, h4, h5, h6, p, td, a {
         color: @text-secondary;
     }
 
@@ -68,6 +77,63 @@ footer {
                     text-decoration: none;
                 }
             }
+        }
+    }
+}
+
+#sponsor-slideshow { 
+    position: relative; 
+    width: 240px; 
+    height: 240px; 
+    padding: 10px; 
+    // box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+
+    div {
+        position: absolute; 
+        top: 10px; 
+        left: 10px; 
+        right: 10px; 
+        bottom: 10px; 
+
+        img {
+            max-width: 240px;
+
+            position: absolute;
+            margin: auto;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+        }
+    }
+}
+
+#gallery-slideshow {
+    position: relative;
+    width: 500px;
+    height: 335px;
+    padding: 10px;
+    margin: 20px;
+    // box-shadow: 0 0 20px rgba(0,0,0,0.4);
+
+    div {
+        position: absolute; 
+        height: 280px;
+
+        top: 10px; 
+        left: 10px; 
+        right: 10px; 
+        bottom: 10px; 
+
+        img {            
+            max-width: 500px;
+
+            position: absolute;
+            margin: auto;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
         }
     }
 }

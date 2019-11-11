@@ -26,3 +26,8 @@
     * Mehrere Mails pro Mitglied
 * Instagram-Account mit Automatisierung v. Posts
     * Machen Artikel überhaupt Sinn? Bild verpflichtend je Post
+
+// Set up:
+
+lessc css/stylesheet.less css/stylesheet.css
+cp js/freelancer.js js/freelancer.min.js 
