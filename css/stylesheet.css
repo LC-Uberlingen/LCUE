@@ -113,6 +113,7 @@ footer ul li a:hover {
 }
 #gallery-slideshow div img {
   max-width: 500px;
+  max-height: 320px;
   position: absolute;
   margin: auto;
   top: 0;

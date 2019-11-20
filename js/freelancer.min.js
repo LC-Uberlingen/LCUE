@@ -61,29 +61,3 @@
   });
 
 })(jQuery); // End of use strict
-
-
-// LC Custom
-$(document).ready(function () {
-  $("#sponsor-slideshow > div:gt(0)").hide();
-  $("#gallery-slideshow > div:gt(0)").hide();
-
-  setInterval(function () {
-    $('#sponsor-slideshow > div:first')
-      .fadeOut(1000)
-      .next()
-      .fadeIn(1000)
-      .end()
-      .appendTo('#sponsor-slideshow');
-  }, 3000);
-
-  setInterval(function () {
-    $('#gallery-slideshow > div:first')
-      .fadeOut(1000)
-      .next()
-      .fadeIn(1000)
-      .end()
-      .appendTo('#gallery-slideshow');
-  }, 4000);
-
-});
