@@ -17,14 +17,60 @@ a {
     background-color: @highlight;
 }
 
-#mainNav .navbar-nav li.nav-item a.nav-link:hover {
-    color: @highlight;
+// #mainNav .navbar-nav { 
+//     >li.nav-item { 
+//         >a.nav-link.active, #mainNav .navbar-nav { 
+//             >li.nav-item {
+//                  >a.nav-link.active {
+//                     background-color: @highlight;
+//                 }
+//             }
+//         }
+//         >a.nav-link.active {
+//             &:hover {
+//                 color: @highlight;
+//                 background-color: @secondary;
+//             }
+//         }
+//     }
+//     li.nav.item {
+//         a.nav-link {
+//             &:hover {
+//                 color: @highlight;
+//             }
+//         }
+//     }
+// }
+
+#mainNav {
+    .navbar-nav {
+        >li.nav-item {
+            >a.nav-link.active {
+                &:hover {
+                    color: @highlight;
+                    background-color: @secondary;
+                }
+            }
+        }
+
+        li.nav-item {
+            a.nav-link {
+                &:hover {
+                    color: @highlight;
+                }
+            }
+        }
+    }
 }
 
-#mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: @highlight;
-    background-color: @secondary;
-}
+// #mainNav .navbar-nav li.nav-item a.nav-link:hover {
+//     color: @highlight;
+// }
+
+// #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+//     color: @highlight;
+//     background-color: @secondary;
+// }
 
 .lc-primary {
     background-color: @primary;
@@ -80,6 +126,10 @@ footer {
         }
     }
 }
+
+.bg-primary {
+  background-color: @highlight;
+} 
 
 #sponsor-slideshow { 
     position: relative; 
