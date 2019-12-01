@@ -12,3 +12,4 @@ Settings[BlogKeys.Description] = "LC Überlingen - Aktuelles";
 Settings[BlogKeys.IncludeDateInPostPath] = true;
 Settings[Keys.LinkHideExtensions] = false;
 Settings[Keys.LinksUseHttps] = true;
+Settings[Keys.LinkRoot] = "/blog";

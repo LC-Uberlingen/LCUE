@@ -75,11 +75,8 @@ const minifyJs = () => {
 }
 
 const blog = () => {
-    return gulp
-    //.src('./blog/')
-    .src('./blog')
-    .pipe(run('cd ./blog && wyam build -o ./../' + releaseFolder + '/blog'))
-    //.pipe(gulp.dest('path/to/output'))  // profit.
+    return gulp.src('./blog')
+        .pipe(run('cd ./blog && wyam build -o ./../' + releaseFolder + '/blog'))
   ;
 }
 
