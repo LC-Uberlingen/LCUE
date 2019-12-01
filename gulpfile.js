@@ -3,6 +3,7 @@ var less = require('gulp-less');
 var cleanCss = require('gulp-clean-css');
 var babel = require('gulp-babel');
 var cleanJs = require('gulp-uglify');
+var run = require('gulp-run');
 
 // Config
 var today = new Date().toISOString().slice(0,10); // yyyy-mm-dd
@@ -73,21 +74,30 @@ const minifyJs = () => {
         .pipe(gulp.dest(releaseFolder + '/js'));
 }
 
+const blog = () => {
+    return gulp
+    //.src('./blog/')
+    .src('./blog')
+    .pipe(run('cd ./blog && wyam build -o ./../' + releaseFolder + '/blog'))
+    //.pipe(gulp.dest('path/to/output'))  // profit.
+  ;
+}
+
 // Default for build
 const release = gulp.series(
     cpWeb, cpImg, cpVendor, cpDownload, 
     compileLess, copyCss, minifyCss,
-    copyJs, transpileJs, minifyJs
+    copyJs, transpileJs, minifyJs,
+    blog
 );
 
 // Debug: No minification
 const debug = gulp.series(
     cpWeb, cpImg, cpVendor, cpDownload, 
     compileLess, copyCss,
-    copyJs
+    copyJs,
+    blog
 );
-
-
 
 
 // Export
