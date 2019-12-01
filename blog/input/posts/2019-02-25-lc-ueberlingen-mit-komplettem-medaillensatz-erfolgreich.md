@@ -22,14 +22,14 @@ Nervös wurden alle, nachdem sie 3,90m zweimal gerissen hatte. Erst im dritten V
 
 „Im Sommer möchte ich nun auf jeden Fall die Norm für die U20-Europameisterschaften schaffen“, erklärte Ella Buchner im anschließenden Sieger-Interview. Die geforderten 4,05m sind für Buchner in greifbarer Nähe, sind sich die beiden Nachwuchs-Bundestrainer Stephan Munz und Alexander Gakstädter sicher und Munz ergänzt: „Für eine Stabhochspringerin hat Ella die besten Voraussetzungen, da sie mit Mut und vollem Risiko springt.“
 
-![Kompletter Medaillensatz für LC Überlingen](./../assets/2019/2019-02-25-medaillensatz-01.jpg)
+![Kompletter Medaillensatz für LC Überlingen](/blog/assets/2019/2019-02-25-medaillensatz-01.jpg)
 
 ## Kramer wird Vizemeisterin
 
 Bereits am ersten Tag wurde Lisa Kramer im Dreisprung Deutsche Vizemeisterin. Nachdem der erste Sprung um die 13m übertreten und somit ungültig war, konnte sie im zweiten Versuch mit soliden 12,56m den einzigen gültigen Sprung im Wettkampf landen. Aufgrund einer Fersenprellung ließ sie zwei Versuche aus und ging in den beiden anderen Sprüngen auf volles Risiko, die sie jedoch auch übertrat. 12,56m reichten der Bundeskaderathletin an diesem Tag für die Silbermedaille.
 
-![Kompletter Medaillensatz für LC Überlingen](./../assets/2019/2019-02-25-medaillensatz-02.jpg)
-![Kompletter Medaillensatz für LC Überlingen](./../assets/2019/2019-02-25-medaillensatz-03.jpg)
+![Kompletter Medaillensatz für LC Überlingen](/blog/assets/2019/2019-02-25-medaillensatz-02.jpg)
+![Kompletter Medaillensatz für LC Überlingen](/blog/assets/2019/2019-02-25-medaillensatz-03.jpg)
 
 ## Siebler holt Bronze
 

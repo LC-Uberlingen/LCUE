@@ -14,10 +14,10 @@ Pia Schmidt-Rüdt verpasste mit 8,67 sec (PB) im 60m Sprint das Finale nur um 0,
 
 Beim 3 x 100m Staffellauf erreichten die drei Überlingerinnen den 6. Platz mit 40,28 sec.
 
-![Hallenmeisterschaften Mannheim](./../assets/2019/2019-02-20-mannheim-01.jpg)
+![Hallenmeisterschaften Mannheim](/blog/assets/2019/2019-02-20-mannheim-01.jpg)
 
-![Hallenmeisterschaften Mannheim](./../assets/2019/2019-02-20-mannheim-02.jpg)
+![Hallenmeisterschaften Mannheim](/blog/assets/2019/2019-02-20-mannheim-02.jpg)
 
-![Hallenmeisterschaften Mannheim](./../assets/2019/2019-02-20-mannheim-03.jpg)
+![Hallenmeisterschaften Mannheim](/blog/assets/2019/2019-02-20-mannheim-03.jpg)
 
 Bilder von Bernd Siebler.

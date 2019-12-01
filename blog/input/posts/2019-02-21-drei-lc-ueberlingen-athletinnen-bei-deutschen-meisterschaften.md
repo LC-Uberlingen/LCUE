@@ -14,7 +14,7 @@ Als dritte im Bunde wird die Mehrkämpferin Johanna Siebler im Kugelstoßen den 
 
 Ein Trainingslager Ende Januar auf Lanzarote sorgte bei allen drei Athletinnen für den vorletzten Schliff. Sie konnten dort nochmals die Schnellkraft verbessern und an ihrer Technik feilschen. Alle drei hoffen, ihr Potential abrufen zu können und an ihre PBs heranzukommen oder gar zu verbessern. Deutsche Meisterschaften bilden den richtigen Rahmen für ein solches Vorhaben.
 
-![Lisa Kramer Dreisprung](./../assets/2019/2019-02-21-kramer-dreisprung.jpg)
+![Lisa Kramer Dreisprung](/blog/assets/2019/2019-02-21-kramer-dreisprung.jpg)
 
 ## Kramer Dreisprung
 

@@ -13,10 +13,10 @@ Kathrin Haselwander (W15) erreichte im Speer 26,87 m (PB), im Kugelstossen 10,52
 
 Das intensive Training der letzten Wochen, vor allem auch das Trainingslager in Ligurien, zeigte auch im Wettkampf bei allen drei Athletinnen seine Wirkung.
 
-![Pokale in Altshausen - 1](./../assets/2016/2016-05-05-pokale-altshausen-1.jpg)
+![Pokale in Altshausen - 1](/blog/assets/2016/2016-05-05-pokale-altshausen-1.jpg)
 
 Iris Amann vom LC Überlingen konnte in Altshausen gleich zum Start der Freiluftsaison ihre Bestleistung im Diskus auf 31,55 m steigern und gewann in ihrer Altersklasse den Werferpokal.
 
-![Pokale in Altshausen - 2](./../assets/2016/2016-05-05-pokale-altshausen-2.jpg)
+![Pokale in Altshausen - 2](/blog/assets/2016/2016-05-05-pokale-altshausen-2.jpg)
 
 Iris Amann, Kathrin Haselwander und Johanna Siebler (v.l.) vom LC Überlingen konnten in Altshausen gleich zum Start der Freiluftsaison mit guten Weiten und einigen Bestleistungen auftrumpfen. Amann (W15) und Siebler (U18) konnten in ihrer Altersklasse den Werferpokal erlangen.

@@ -4,4 +4,4 @@ Tags: Presse
 Author: Presse
 ---
 
-![Schwäbische-Beitrag vom 05.03.2015](./../assets/2015/2015-03-05-schawebische-2.jpg)
+![Schwäbische-Beitrag vom 05.03.2015](/blog/assets/2015/2015-03-05-schawebische-2.jpg)

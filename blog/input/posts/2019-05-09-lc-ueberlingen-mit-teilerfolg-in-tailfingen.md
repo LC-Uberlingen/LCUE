@@ -8,7 +8,7 @@ Der Leichtathletik Club Überlingen (LC Überlingen) war beim 14. Tailfinger Spr
 
 Die drei Stabhochspringer Florian Elsenhans (M15: 2,62m), Clara Endres (W14: 2,32m) und Clara Zang (W14: 2,32m) konnten eine PB aufstellen. Clara Zang absolvierte dabei ihrem ersten Stabhochsprung-Wettkampf.
 
-![LC Überlingen in Tailfingen](./../assets/2019/2019-05-09-tailfingen.jpg)
+![LC Überlingen in Tailfingen](/blog/assets/2019/2019-05-09-tailfingen.jpg)
 
 Im Hürdensprint über 80m konnte Marisa Jurtz (W15) ihre PB um 0,1 sec auf 12,29sec steigern. Damit führt sie derzeit die Badische Bestenliste an.
 

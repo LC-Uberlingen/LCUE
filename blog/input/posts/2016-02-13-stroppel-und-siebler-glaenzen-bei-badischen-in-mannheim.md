@@ -14,6 +14,6 @@ Im direkt anschließenden Kugelstoßen kam Siebler gleich mit 13,81 m knapp an i
 
 Im Weitsprung legte Siebler eine Serie von sehr guten Sprüngen - alle deutlich über 5 m - hin. Mit ihrem besten Versuch über 5,45 m und der dritten Silbermedaille war sie am Ende sehr zufrieden. 
 
-![Stroppel und Siebler glänzen bei den Badischen in Mannheim](./../assets/2016/2016-02-13-stroppel-siebler-badische-mannheim.jpg)
+![Stroppel und Siebler glänzen bei den Badischen in Mannheim](/blog/assets/2016/2016-02-13-stroppel-siebler-badische-mannheim.jpg)
 
 Luisa Stroppel vom LC Überlingen wurde mit 11,63 m überlegen Badische Meisterin im Dreisprung.

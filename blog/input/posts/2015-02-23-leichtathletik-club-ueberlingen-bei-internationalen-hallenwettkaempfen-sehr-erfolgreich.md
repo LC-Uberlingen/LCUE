@@ -33,7 +33,7 @@ Lisa Kramer konnte in der AK weiblich U16 mit 9,77s ihre persönlicher Bestleist
 
 Johanna Siebler gewann in der AK weiblich U16 das Kugelstoßen deutlich mit 11,49m.
 
-![Hallenwettkämpfe - 1 23.02.2015](./../assets/2015/2015-02-32-hallenwettkaempfe-01.jpg)
-![Hallenwettkämpfe - 2 23.02.2015](./../assets/2015/2015-02-32-hallenwettkaempfe-02.jpg)
-![Hallenwettkämpfe - 3 23.02.2015](./../assets/2015/2015-02-32-hallenwettkaempfe-03.jpg)
-![Hallenwettkämpfe - 4 23.02.2015](./../assets/2015/2015-02-32-hallenwettkaempfe-04.jpg)
+![Hallenwettkämpfe - 1 23.02.2015](/blog/assets/2015/2015-02-32-hallenwettkaempfe-01.jpg)
+![Hallenwettkämpfe - 2 23.02.2015](/blog/assets/2015/2015-02-32-hallenwettkaempfe-02.jpg)
+![Hallenwettkämpfe - 3 23.02.2015](/blog/assets/2015/2015-02-32-hallenwettkaempfe-03.jpg)
+![Hallenwettkämpfe - 4 23.02.2015](/blog/assets/2015/2015-02-32-hallenwettkaempfe-04.jpg)

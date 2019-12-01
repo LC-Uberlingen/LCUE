@@ -10,6 +10,6 @@ Den ersten Versuch übertrat die junge Dreispringerin, jedoch setzte sie sich mi
 
 Karlsruhe war ein sehr gelungener Start in die Hallensaison. Die neue baden-württembergische Meisterin wird am kommenden Wochenende in Sindelfingen bei den Süddeutschen Meisterschaften als Favoritin an den Start gehen.
 
-![Luisa Stroppel gewinnt Gold in Karlsruhe](./../assets/2016/2016-01-25-stroppel-dreisprung.jpg)
+![Luisa Stroppel gewinnt Gold in Karlsruhe](/blog/assets/2016/2016-01-25-stroppel-dreisprung.jpg)
 
 Luisa Stroppel vom LC Überlingen wurde in der Karlsruher Messehalle Baden-württembergische Meisterin im Dreisprung. Souverän gewann sie Gold und sprang mit 11,83m auf den zweiten Platz der aktuellen deutschen Bestenliste.

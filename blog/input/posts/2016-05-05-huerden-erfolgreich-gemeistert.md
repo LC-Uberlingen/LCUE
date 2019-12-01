@@ -105,14 +105,14 @@ WJ U16: 4x100 m: 52,40 s, 1. Platz
 Luisa Stroppel (GER) 1999/WJ U18
 WJ U18: Dreispr.: 11,73 m, 1. Platz
 
-![Hürden erfolgreich gemeistert - 1](./../assets/2016/2016-05-05-huerden-1.jpg)
+![Hürden erfolgreich gemeistert - 1](/blog/assets/2016/2016-05-05-huerden-1.jpg)
 
 Kathrin Haselwander gewann die Hürden bei W15, knapp dahinter Ella Buchner, beide vom LC Überlingen.
 
-![Hürden erfolgreich gemeistert - 2](./../assets/2016/2016-05-05-huerden-2.jpg)
+![Hürden erfolgreich gemeistert - 2](/blog/assets/2016/2016-05-05-huerden-2.jpg)
 
 Florian Elsenhans auf dem Weg zum Sieg
 
-![Hürden erfolgreich gemeistert - 3](./../assets/2016/2016-05-05-huerden-3.jpg)
+![Hürden erfolgreich gemeistert - 3](/blog/assets/2016/2016-05-05-huerden-3.jpg)
 
 Marisa Jurtz knapp vorne im Finish über 60 m Hürden

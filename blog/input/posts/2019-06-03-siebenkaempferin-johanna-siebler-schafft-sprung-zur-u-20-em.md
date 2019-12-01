@@ -17,11 +17,11 @@ Am zweiten Tag steigerte sich Johanna Siebler im Weitsprung im dritten Versuch z
 
 Dieses Ziel wird die Überlingerin zwischen dem 18. bis 21. Juli in Schweden erneut versuchen. Dann bestreitet sie ihren bereits vierten großen internationalen Wettkampf in Folge. Dies ist bisher noch keiner Siebenkämpferin in Deutschland in der Jugend gelungen. U-18-Vizeweltmeisterin war sie bereits. Ob es in Borås erneut zu einer Medaille reicht, ist momentan schwer zu sagen. Bis dahin wird sie jedenfalls noch akribisch trainieren. Und für die U-20-EM hat sie bislang nur ein Ziel: 5700 Punkte. „Wenn ich das schaffe, werden wir sehen, auf welchem Platz ich lande“, sagt Johanna Siebler, die gemeinsam mit Lucie Kienast und Joanna Schiffer aus Neubrandenburg die deutschen Farben in Schweden vertreten wird. Und eines steht jetzt schon fest: Wenn Johanna Siebler die 5700 Punkte schafft, wird sie ganz vorne mitmischen können.
 
-![U20-EM Qualifikation Johanna Siebler](./../assets/2019/2019-06-03-siebler-u20-quali-01.jpg)
-![U20-EM Qualifikation Johanna Siebler](./../assets/2019/2019-06-03-siebler-u20-quali-02.jpg)
-![U20-EM Qualifikation Johanna Siebler](./../assets/2019/2019-06-03-siebler-u20-quali-03.jpg)
-![U20-EM Qualifikation Johanna Siebler](./../assets/2019/2019-06-03-siebler-u20-quali-04.jpg)
-![U20-EM Qualifikation Johanna Siebler](./../assets/2019/2019-06-03-siebler-u20-quali-05.jpg)
-![U20-EM Qualifikation Johanna Siebler](./../assets/2019/2019-06-03-siebler-u20-quali-06.jpg)
+![U20-EM Qualifikation Johanna Siebler](/blog/assets/2019/2019-06-03-siebler-u20-quali-01.jpg)
+![U20-EM Qualifikation Johanna Siebler](/blog/assets/2019/2019-06-03-siebler-u20-quali-02.jpg)
+![U20-EM Qualifikation Johanna Siebler](/blog/assets/2019/2019-06-03-siebler-u20-quali-03.jpg)
+![U20-EM Qualifikation Johanna Siebler](/blog/assets/2019/2019-06-03-siebler-u20-quali-04.jpg)
+![U20-EM Qualifikation Johanna Siebler](/blog/assets/2019/2019-06-03-siebler-u20-quali-05.jpg)
+![U20-EM Qualifikation Johanna Siebler](/blog/assets/2019/2019-06-03-siebler-u20-quali-06.jpg)
 
 Bilder von Jakob Siebler

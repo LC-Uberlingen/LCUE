@@ -14,7 +14,7 @@ Die ersten Wettkämpfe und die Tests im Training zeigten, dass Siebler auf dem W
 
 An Ostern im letzten Trainingslager in Albufeira (Portugal) wurde nochmals an der Technik gefeilt und die Bundeskaderathletin konnte sich beispielsweise im Hochsprung deutlich verbessern.  An der Algarve trainierte sie auch zeitweise bei Sabine Braun vom TV Wattenscheid. Braun ist noch immer fünftbeste Siebenkämpferin der Welt und hält seit 1992 mit 6985 Punkten den Deutschen Rekord. Siebler erhielt von der erfahrenen Altmeisterin wertvolle Tipps, die ihr in den kommenden Wettkämpfen weiterhelfen werden.
 
-![Johanna Siebler (Weitsprung)](./../assets/2019/2019-05-09-johanna-siebler-01.jpg)
-![Johanna Siebler](./../assets/2019/2019-05-09-johanna-siebler-02.jpg)
+![Johanna Siebler (Weitsprung)](/blog/assets/2019/2019-05-09-johanna-siebler-01.jpg)
+![Johanna Siebler](/blog/assets/2019/2019-05-09-johanna-siebler-02.jpg)
 
 Fotos von Bernd Siebler.

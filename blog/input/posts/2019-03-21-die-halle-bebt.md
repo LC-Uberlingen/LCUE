@@ -18,7 +18,7 @@ Neben den hochspannenden Wettkämpfen, war auch für das leibliche Wohl gesorgt.
 
 Plätze auf dem Siegertreppchen konnten sich vom LC Überlingen Johannes Berger M11 mit Platz 2 und Lucie Fantino W12 mit Platz 3 sichern. Außerdem erreichte das Staffelteam U12 den 4. Platz. Weitere Platzierungen waren Lena Mosner W11 Platz 7, Rojbun Aktas W11 Platz 10, Clara Wolks W11 Platz 11 und Charlotte Schumann W11 Platz 15. Oceane Paul W12 belegte den 10. Platz. Bei den M11-Teilnehmern erreichte Linus Ahlerin Platz 8, Leon Stumpf Platz 9 und Bennet Butsch Platz 10. Für jede Platzierung gab es eine Urkunde und die berühmte Tafel Schokolade und letztendlich gilt: Dabei sein ist alles!
 
-![LC Überlingen in Meersburg](./../assets/2019/2019-03-21-die-halle-bebt-01.jpg)
-![LC Überlingen in Meersburg](./../assets/2019/2019-03-21-die-halle-bebt-02.jpg)
+![LC Überlingen in Meersburg](/blog/assets/2019/2019-03-21-die-halle-bebt-01.jpg)
+![LC Überlingen in Meersburg](/blog/assets/2019/2019-03-21-die-halle-bebt-02.jpg)
 
 Bilder von Eddy Jansen

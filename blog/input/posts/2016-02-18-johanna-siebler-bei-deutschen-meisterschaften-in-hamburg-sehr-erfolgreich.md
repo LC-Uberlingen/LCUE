@@ -14,6 +14,6 @@ Gute 5,43 m im Weitsprung sorgten dafür, dass vor dem 800 m Lauf vier Athletinn
 
 Siebler war mit dem vierten Platz und 3688 Punkten sehr zufrieden, kam sie trotz Erkältung in allen Disziplinen an ihre Bestleistung heran.
 
-![Johanna Siebler bei den Deutschen Meisterschaften in Hamburg sehr erfolgreich](./../assets/2016/2016-02-18-siebler-hamburg.jpg)
+![Johanna Siebler bei den Deutschen Meisterschaften in Hamburg sehr erfolgreich](/blog/assets/2016/2016-02-18-siebler-hamburg.jpg)
 
 Johanna Siebler vom LC Überlingen wurde bei den Deutschen Hallen-Mehrkampfmeisterschaften in Hamburg Vierte. Sie stellte bei den Hürden, dem Kugelstoßen und dem 800m Lauf drei neue Bestleistungen in einem Mehrkampf auf. Das Kugelstoßen gewann sie mit Abstand.

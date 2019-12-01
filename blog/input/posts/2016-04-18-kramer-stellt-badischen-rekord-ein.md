@@ -15,6 +15,6 @@ Luisa Stroppel (U18) startete dafür nicht so gut in die Freiluftsaison. Die sie
 Auch Johanna Siebler (U18) hatte bei ihrem 200m Lauf mit starkem Gegenwind zu kämpfen und kam mit 27,32 s als erste ins Ziel. Im Hochsprung sprang sie solide über 1,55 m und gewann den Wettbewerb.
 Lars Neuschl (U20), der erst vor einigen Wochen mit der Leichtathletik begonnen hatte, wagte sich an 110 m Hürden und meisterste den Lauf über die 99cm hohen Hürden in 19,38 s. Im Speerwurf kam er auf 32,78 m.
 
-![Kramer stellt badischen Rekord ein](./../assets/2016/2016-04-18-kramer-stellt-badischen-rekord-ein.jpg)
+![Kramer stellt badischen Rekord ein](/blog/assets/2016/2016-04-18-kramer-stellt-badischen-rekord-ein.jpg)
 
 Lisa Kramer vom LC Überlingen stellte den Badischen Rekord im Dreisprung mit 11,50 m ein. Bereits zum Saisonstart in Aulendorf eine starke Leistung, die auf eine Leistungssteigerung im Laufe der kommenden Monate hoffen lässt.

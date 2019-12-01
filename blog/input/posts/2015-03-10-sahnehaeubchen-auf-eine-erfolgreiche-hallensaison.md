@@ -4,4 +4,4 @@ Tags: Presse
 Author: Presse
 ---
 
-![Südkurier-Beitrag vom 10.03.2015](./../assets/2015/2015-03-10-suedkurier.jpg)
+![Südkurier-Beitrag vom 10.03.2015](/blog/assets/2015/2015-03-10-suedkurier.jpg)

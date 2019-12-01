@@ -18,9 +18,9 @@ Obwohl jeder stark an seine Grenzen kam, verbrachten die Athleten ihre freie Zei
 
 Als krönenden Abschluss gab es noch ein Hochsprungtraining von Thomas Zacharias, der auf Lanzarote lebt, Bundestrainer war und zu den besten Hochspringern der Welt gehörte. Zacharias war auch als Seniorensportler noch sehr aktiv und erreichte Weltrekorde. Für unsere Athleten war es eine Ehre mit ihm trainieren zu dürfen. Die Tage vergingen wie im Flug, doch die Ziele für 2019 sind definiert und am Flughafen konnten einige getrost sagen:“ İHasta la próxima!, denn im März kommen wir wieder.
 
-![Trainingslager Lanzarote](./../assets/2019/2019-02-10-trainingslager-01.jpg)
-![Trainingslager Lanzarote](./../assets/2019/2019-02-10-trainingslager-02.jpg)
-![Trainingslager Lanzarote](./../assets/2019/2019-02-10-trainingslager-03.jpg)
-![Trainingslager Lanzarote](./../assets/2019/2019-02-10-trainingslager-04.jpg)
+![Trainingslager Lanzarote](/blog/assets/2019/2019-02-10-trainingslager-01.jpg)
+![Trainingslager Lanzarote](/blog/assets/2019/2019-02-10-trainingslager-02.jpg)
+![Trainingslager Lanzarote](/blog/assets/2019/2019-02-10-trainingslager-03.jpg)
+![Trainingslager Lanzarote](/blog/assets/2019/2019-02-10-trainingslager-04.jpg)
 
 Fotos von Bernd Siebler.

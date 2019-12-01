@@ -14,17 +14,17 @@ Dauerregen, extrem böiger Wind und Kälte: Das waren die Voraussetzungen am Woc
 
 Auch im Kugelstoßen hat die Überlingerin viel trainiert, doch der rutschige Stoßring bot eine zusätzliche Schwierigkeit. Dabei zeigte sie Nerven wie Drahtseile, denn erst im dritten Versuch schaffte sie 14,11 Meter und blieb damit auf Norm-Kurs. Beim abschließenden 200-Meter-Lauf half der starke Rückenwind auf der Zielgeraden und eine starke Konkurrentin zu einer Zeit von 25,45 Sekunden. Mit diesen Leistungen lag sie nach dem ersten Tag trotz den Bedingungen auf Kurs einer persönlichen Bestleistung.
 
-![Johanna Siebler auf dem Weg zur EM](./../assets/2019/2019-05-13-johanna-siebler-em-01.jpg)
+![Johanna Siebler auf dem Weg zur EM](/blog/assets/2019/2019-05-13-johanna-siebler-em-01.jpg)
 
 Am zweiten Tag gab es eine gute und eine schlechte Nachricht. Die Sonne kam zwar raus, doch die Windböen wurden noch stärker und das Thermometer zeigte lediglich zehn Grad.
 
 Mit dem Weitsprung ging es los. Der erste Versuch war mit 5,37 Meter auf Sicherheit und den zweiten übertrat die Bundeskaderathletin. Doch auch hier war Johanna Siebler nervenstark, legte im letzten Durchgang noch einen Satz auf 5,72 Meter hin und blieb im Rennen um die EM-Norm.
 
-![Johanna Siebler auf dem Weg zur EM](./../assets/2019/2019-05-13-johanna-siebler-em-02.jpg)
+![Johanna Siebler auf dem Weg zur EM](/blog/assets/2019/2019-05-13-johanna-siebler-em-02.jpg)
 
 Das Speerwerfen wurde zu einer Windlotterie. Die 44,10 Meter der 18-Jährigen war zwar klar die beste Weite des gesamten Teilnehmerfeldes, doch zur Bestmarke fehlte etwa ein Meter. „Ich habe den Abwurf einfach nicht hinbekommen“, sagte Johanna Siebler nach dem Wettkampf.
 
-![Johanna Siebler auf dem Weg zur EM](./../assets/2019/2019-05-13-johanna-siebler-em-03.jpg)
+![Johanna Siebler auf dem Weg zur EM](/blog/assets/2019/2019-05-13-johanna-siebler-em-03.jpg)
 
 Vor dem abschließenden 800-Meter-Lauf hatte sie gerade einmal 90 Punkte Vorsprung auf Lokalmatadorin Lucie Kienast, die ebenfalls um die EM-Norm kämpfte und die klar bessere Läuferin ist. „Ich wollte den Wettkampf unbedingt gewinnen und ging deshalb hochmotiviert in den Lauf“, so Johanna Siebler, die maximal sechs Sekunden einbüßen durfte – und sie schaffte es mit 2:26,47 Sekunden.
 

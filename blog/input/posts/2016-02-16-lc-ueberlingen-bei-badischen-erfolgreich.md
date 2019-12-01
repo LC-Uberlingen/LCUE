@@ -20,6 +20,6 @@ Im Stabhochsprung steigerte Buchner ihre PB gleich um 40 cm auf 2,80m, obwohl si
 
 Kramer, Haselwander, Buchner und Heemann erreichten mit der 4x100m Staffel den 6. Platz in 54,43 s.
 
-![LC Überlingen bei den Badischen überaus erfolgreich](./../assets/2016/2016-02-16-lc-ueberlingen-bei-badischen-erfolgreich.jpg)
+![LC Überlingen bei den Badischen überaus erfolgreich](/blog/assets/2016/2016-02-16-lc-ueberlingen-bei-badischen-erfolgreich.jpg)
 
 Lisa Kramer (W15) vom LC Überlingen wurde mit 16,38 m Badische Hallen-Meisterin im Fünfsprung.

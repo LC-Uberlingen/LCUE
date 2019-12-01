@@ -4,4 +4,4 @@ Tags: Presse
 Author: Presse
 ---
 
-![Südkurier-Titelseite vom 31.01.2015](./../assets/2015/2015-01-31-suedkurier-titelseite.jpg)
+![Südkurier-Titelseite vom 31.01.2015](/blog/assets/2015/2015-01-31-suedkurier-titelseite.jpg)
