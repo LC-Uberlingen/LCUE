@@ -88,6 +88,13 @@ const release = gulp.series(
     blog
 );
 
+// Release only main website
+const noblog = gulp.series(
+    cpWeb, cpImg, cpVendor, cpDownload, 
+    compileLess, copyCss, minifyCss,
+    copyJs, transpileJs, minifyJs
+);
+
 // Debug: No minification
 const debug = gulp.series(
     cpWeb, cpImg, cpVendor, cpDownload, 
@@ -99,4 +106,5 @@ const debug = gulp.series(
 
 // Export
 exports.default = release;
+exports.noblog = noblog;
 exports.debug = debug;
