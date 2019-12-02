@@ -19,8 +19,8 @@ Leon Stumpf erreichte mit 8,44 Sekunden auf 50 Meter, 3,39 Meter im Weisprung un
 
 Für die U 10 traten Noah Zugmantel und Jona Stumpf an. Jona erreichte mit 9,33 Sekunden /50 Meter, 2,81 Meter Weitsprung und 18,50 Meter im Schlagballwurf den 5.Platz und Noah mit 10,27 Sekunden/50 Meter, 2,18 Meter im Weitsprung und 20,00 Meter im Schlagballwurf den 8.Platz.
 
-![Bezirksmeisterschaften in Singen und Iznang](/blog/assets/2019/2019-05-19-bezirksmeisterschaften-1.png)
+![Bezirksmeisterschaften in Singen und Iznang](/blog/assets/2019/2019-05-19-bezirksmeisterschaften-1.jpg)
 
-![Bezirksmeisterschaften in Singen und Iznang](/blog/assets/2019/2019-05-19-bezirksmeisterschaften-2.png)
+![Bezirksmeisterschaften in Singen und Iznang](/blog/assets/2019/2019-05-19-bezirksmeisterschaften-2.jpg)
 
 Bilder von Sophie Zang.

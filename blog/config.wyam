@@ -1,3 +1,5 @@
+#n Wyam.Images -p
+
 #recipe Blog
 
 System.Globalization.CultureInfo.DefaultThreadCurrentCulture
@@ -7,9 +9,19 @@ System.Globalization.CultureInfo.DefaultThreadCurrentCulture
 Settings[Keys.Host] = "blog.lc-ueberlingen.de";
 Settings[BlogKeys.Title] = "LC Überlingen";
 Settings[BlogKeys.Description] = "LC Überlingen - Aktuelles";
+Settings[BlogKeys.IndexPageSize] = 5;
 
 // Add any pipeline customizations here
 Settings[BlogKeys.IncludeDateInPostPath] = true;
 Settings[Keys.LinkHideExtensions] = false;
 Settings[Keys.LinksUseHttps] = true;
 Settings[Keys.LinkRoot] = "/blog";
+
+// Custom Pipelines
+Pipelines.Add("Images",
+  ReadFiles("assets/**/*")
+    .Where(x => new[] { ".jpg", ".jpeg", ".gif", ".png"}.Contains(x.Path.Extension)),
+  Image()
+    .Resize(400, null),
+  WriteFiles().UseWriteMetadata(false)
+);
