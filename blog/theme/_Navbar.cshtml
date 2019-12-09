@@ -8,7 +8,7 @@
         .OrderBy(x => x.Item1)
         .ToList();
 
-    pages.Insert(0, Tuple.Create("Home", "https://www.lc-ueberlingen.de"));
+    pages.Insert(0, Tuple.Create("Home", @Context.GetLink("/")));
 
     if(Documents[Blog.Tags].Any())
     {
