@@ -1,4 +1,4 @@
-Title: Süddeutscher Hallenmeister für Ella Bucher
+Title: Ella Buchner ist Süddeutsche Hallenmeisterin
 Published: 10/02/2020
 Tags: 
 - Wettkampf
