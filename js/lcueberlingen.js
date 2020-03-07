@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-    // ######### CONFIG #########
+    // ######### BEGIN CONFIG #########
        
     // Setup requires gallery / sponsor images to be named numbered from 1 to x
     // Only jpg images allowed
@@ -18,6 +18,8 @@ $(document).ready(function() {
     const sponsorsFadeInDuration = 1000;
     const sponsorsFadeOutDuration = 1000;
 
+    const useCustomSlider = false;
+
     const sponsorsUrlMapping = {
         1: "https://www.sporthaus-schmidt.de/", // Intersport
         2: "https://www.fkb-gmbh.com/de/",      // FKB
@@ -26,7 +28,7 @@ $(document).ready(function() {
         5: "https://www.pvs-reiss.de/"          // PVS Reiss
     }
 
-    // ######### CONFIG #########
+    // ######### END CONFIG #########
     
     let gallery = $("#gallery-slideshow");
     let sponsors = $("#sponsor-slideshow");
@@ -43,24 +45,31 @@ $(document).ready(function() {
         }
     }
 
-    $("#sponsor-slideshow > div:gt(0)").hide();
-    $("#gallery-slideshow > div:gt(0)").hide();
+    if(useCustomSlider) {
 
-    setInterval(function () {
-        $('#sponsor-slideshow > div:first')
-        .fadeOut(imgFadeOutDuration)
-        .next()
-        .fadeIn(imgFadeInDuration)
-        .end()
-        .appendTo('#sponsor-slideshow');
-    }, imgDisplayDuration);
+        $("#sponsor-slideshow > div:gt(0)").hide();
+        $("#gallery-slideshow > div:gt(0)").hide();
 
-    setInterval(function () {
-        $('#gallery-slideshow > div:first')
-        .fadeOut(sponsorsFadeOutDuration)
-        .next()
-        .fadeIn(sponsorsFadeInDuration)
-        .end()
-        .appendTo('#gallery-slideshow');
-    }, sponsorsDisplayDuration);
+        setInterval(function () {
+            $('#sponsor-slideshow > div:first')
+            .fadeOut(imgFadeOutDuration)
+            .next()
+            .fadeIn(imgFadeInDuration)
+            .end()
+            .appendTo('#sponsor-slideshow');
+        }, imgDisplayDuration);
+
+        setInterval(function () {
+            $('#gallery-slideshow > div:first')
+            .fadeOut(sponsorsFadeOutDuration)
+            .next()
+            .fadeIn(sponsorsFadeInDuration)
+            .end()
+            .appendTo('#gallery-slideshow');
+        }, sponsorsDisplayDuration);
+    } else {
+
+        /* Setup SlickSlider */
+        $('#sponsor-slideshow').slick();
+    }
 });
