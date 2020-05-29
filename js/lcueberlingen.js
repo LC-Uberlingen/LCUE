@@ -1,7 +1,7 @@
 $(document).ready(function() {
-    
+
     // ######### BEGIN CONFIG #########
-       
+
     // Setup requires gallery / sponsor images to be named numbered from 1 to x
     // Only jpg images allowed
     // Optional add id-to-url mappings for sponsors-gallery to add links to their websites
@@ -18,54 +18,54 @@ $(document).ready(function() {
     const sponsorsFadeInDuration = 1000;
     const sponsorsFadeOutDuration = 1000;
 
-    const useCustomSlider = false;
+    const useCustomSlider = true;
 
     const sponsorsUrlMapping = {
         1: "https://www.sporthaus-schmidt.de/", // Intersport
-        2: "https://www.fkb-gmbh.com/de/",      // FKB
-        3: "https://www.dasautohausbach.de/",   // Bach
-        4: "https://www.personaplan.de/",       // Persona Plan
-        5: "https://www.pvs-reiss.de/"          // PVS Reiss
+        2: "https://www.fkb-gmbh.com/de/", // FKB
+        3: "https://www.dasautohausbach.de/", // Bach
+        4: "https://www.personaplan.de/", // Persona Plan
+        5: "https://www.pvs-reiss.de/" // PVS Reiss
     }
 
     // ######### END CONFIG #########
-    
+
     let gallery = $("#gallery-slideshow");
     let sponsors = $("#sponsor-slideshow");
 
-    for(let i = 1; i <= imgCount; i++) {
+    for (let i = 1; i <= imgCount; i++) {
         gallery.append("<div><img src='" + imgPath + i + ".jpg'/></div>");
     }
 
-    for(let i = 1; i <= sponsorsCount; i++) {
-        if(i in sponsorsUrlMapping) {
+    for (let i = 1; i <= sponsorsCount; i++) {
+        if (i in sponsorsUrlMapping) {
             sponsors.append("<div><a href='" + sponsorsUrlMapping[i] + "'><img src='" + sponsorsPath + i + ".jpg'/></a></div>");
         } else {
             sponsors.append("<div><img src='" + sponsorsPath + i + ".jpg'/></div>");
         }
     }
 
-    if(useCustomSlider) {
+    if (useCustomSlider) {
 
         $("#sponsor-slideshow > div:gt(0)").hide();
         $("#gallery-slideshow > div:gt(0)").hide();
 
-        setInterval(function () {
+        setInterval(function() {
             $('#sponsor-slideshow > div:first')
-            .fadeOut(imgFadeOutDuration)
-            .next()
-            .fadeIn(imgFadeInDuration)
-            .end()
-            .appendTo('#sponsor-slideshow');
+                .fadeOut(imgFadeOutDuration)
+                .next()
+                .fadeIn(imgFadeInDuration)
+                .end()
+                .appendTo('#sponsor-slideshow');
         }, imgDisplayDuration);
 
-        setInterval(function () {
+        setInterval(function() {
             $('#gallery-slideshow > div:first')
-            .fadeOut(sponsorsFadeOutDuration)
-            .next()
-            .fadeIn(sponsorsFadeInDuration)
-            .end()
-            .appendTo('#gallery-slideshow');
+                .fadeOut(sponsorsFadeOutDuration)
+                .next()
+                .fadeIn(sponsorsFadeInDuration)
+                .end()
+                .appendTo('#gallery-slideshow');
         }, sponsorsDisplayDuration);
     } else {
 
