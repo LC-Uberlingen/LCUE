@@ -5,7 +5,7 @@ Tags:
 Author: Bernd Siebler
 ---
 
-Ella Buchner (U20) vom Leichtathletik Club Überlingen (LC Überlingen) pulverisierte beim Sportfest in Engen den Badischen Rekord mit 4,20m im Stabhochsprung, womit sie auch die Bundes-Kadernorm übersprang.
+Ella Buchner (U20) vom Leichtathletik Club Überlingen (LC Überlingen) pulverisierte beim Sportfest in Engen den Badischen Rekord mit 4,20m im Stabhochsprung, womit sie auch die Bundes-Kadernorm übersprang. Sie liegt mit dieser Leistung auf Platz 4 der Weltjahres-Bestenliste.
 
 Buchner nutzte die Corona-Zeit optimal, um sich körperlich fit zu machen, so dass athletische Voraussetzungen gelegt sind. In den vergangenen Wochen arbeitete sie und ihr Trainer Bernd Siebler akribisch an einigen technischen Details. Außerdem schaffte ihr Verein im vergangenen Jahr neue Stäbe im Wert von 10 000 Euro an. Die intensive Arbeit und die Investition haben sich ausbezahlt.
 
