@@ -6,7 +6,7 @@
 
 a {
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
         text-decoration: underline;
@@ -16,31 +16,6 @@ a {
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     background-color: @highlight;
 }
-
-// #mainNav .navbar-nav { 
-//     >li.nav-item { 
-//         >a.nav-link.active, #mainNav .navbar-nav { 
-//             >li.nav-item {
-//                  >a.nav-link.active {
-//                     background-color: @highlight;
-//                 }
-//             }
-//         }
-//         >a.nav-link.active {
-//             &:hover {
-//                 color: @highlight;
-//                 background-color: @secondary;
-//             }
-//         }
-//     }
-//     li.nav.item {
-//         a.nav-link {
-//             &:hover {
-//                 color: @highlight;
-//             }
-//         }
-//     }
-// }
 
 #mainNav {
     .navbar-nav {
@@ -62,15 +37,6 @@ a {
         }
     }
 }
-
-// #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-//     color: @highlight;
-// }
-
-// #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-//     color: @highlight;
-//     background-color: @secondary;
-// }
 
 .lc-primary {
     background-color: @primary;
