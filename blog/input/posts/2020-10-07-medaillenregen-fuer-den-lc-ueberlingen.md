@@ -7,6 +7,8 @@ Author: Nicole Schmidt-Rüdt
 
 Pia Schmidt-Rüdt (W15) holt drei Mal Gold bei den badischen Meisterschaften.
 
+![Medaillenregen für den LCÜ](/blog/assets/2020/2020-10-07-bm-loerrach-2020.jpg)
+
 Bei den badischen U16 Leichtathletikmeisterschaften am vergangenen Samstag in Lörrach haben vier Athleten des Leichtathletikclub Überlingen (LC Überlingen) insgesamt 6 Medaillen gewonnen.
 
 Pia Schmidt-Rüdt (W15) konnte sich gleich drei Mal über den badischen Meistertitel freuen und war somit die mit Abstand erfolgreichste Athletin in Baden. Im Weitsprung holte sie mit 5,10 m. den Titel, im Hochsprung mit einer übersprungenen Höhe von 1,58 m. und im Kugelstoßen (3 kg.) konnte sie sich mit 10,68 m. die Goldmedaille sichern.
